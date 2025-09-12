@@ -1,4 +1,4 @@
-# Hi there 👋 I'm Aamir Abbas
+# Hi there 👋 I'm Aamir Bin Abbas Al-Qaiti
 
 Welcome to my GitHub! I am passionate about programming, data analysis, and building impactful software solutions. Here you'll find projects ranging from machine learning to automation scripts.
 
