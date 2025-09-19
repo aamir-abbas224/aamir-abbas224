@@ -20,8 +20,8 @@ A simple Employee Management System built to organize employee records efficient
 ### [Calculator CLI Code](https://github.com/aamir-abbas224/Calculator-CLI-Code)
 A command-line calculator for quick and simple arithmetic operations.
 
-### [COVID-19 Global Analysis (Pandas)](https://github.com/aamir-abbas224/COVID-19-Global-Analysis-Pandas)
-Data analysis project visualizing COVID-19 impact across the globe using Pandas.
+### [DSA Series](https://github.com/aamir-abbas224/DSA-Series)
+A series of Data Structures and Algorithms resources and implementations for learning and interview preparation (Currently working on it).
 
 ### [Cleaned Netflix Titles file](https://github.com/aamir-abbas224/Cleaned-Netflix-Titles-file)
 A cleaned and processed dataset of Netflix titles for analytics and machine learning.
