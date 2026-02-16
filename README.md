@@ -14,17 +14,11 @@ Turning data into predictions and ideas into code. Currently exploring deep lear
 ### [Stock Price Predictor (LSTM)](https://github.com/aamir-abbas224/Stock-Price-Predictor-Close--LSTM)
 A deep learning project using LSTM networks to predict closing stock prices based on historical data.
 
-### [Employee Management System](https://github.com/aamir-abbas224/Employee-Management-System)
-A simple Employee Management System built to organize employee records efficiently.
-
-### [Calculator CLI Code](https://github.com/aamir-abbas224/Calculator-CLI-Code)
-A command-line calculator for quick and simple arithmetic operations.
+### [understanding-math-for-ml-from-first-principles](https://github.com/aamir-abbas224/understanding-math-for-ml-from-first-principles)
+A structured repository for understanding mathematics required for Machine learning.It covers most of the fundamentals which I have tried to explain intuitavely with code examples! 
 
 ### [DSA Series](https://github.com/aamir-abbas224/DSA-Series)
 A series of Data Structures and Algorithms resources and implementations for learning and interview preparation (Currently working on it).
-
-### [Cleaned Netflix Titles file](https://github.com/aamir-abbas224/Cleaned-Netflix-Titles-file)
-A cleaned and processed dataset of Netflix titles for analytics and machine learning.
 
 ## 📫 Get in Touch
 
