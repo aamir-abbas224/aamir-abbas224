@@ -15,7 +15,7 @@ Welcome to my GitHub! I am passionate about programming, data analysis, and buil
 A deep learning project using LSTM networks to predict closing stock prices based on historical data.
 
 ### [Employee Management System](https://github.com/aamir-abbas224/Employee-Management-System)
-A simple Employee Management System built to organize employee records efficiently.(Currently working on it)
+A simple Employee Management System built to organize employee records efficiently.
 
 ### [Calculator CLI Code](https://github.com/aamir-abbas224/Calculator-CLI-Code)
 A command-line calculator for quick and simple arithmetic operations.
