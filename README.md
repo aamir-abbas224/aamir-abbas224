@@ -1,6 +1,6 @@
 # Hi there 👋 I'm Aamir Bin Abbas Al-Qaiti
 
-Welcome to my GitHub! I am passionate about programming, data analysis, and building impactful software solutions. Here you'll find projects ranging from machine learning to automation scripts.
+Turning data into predictions and ideas into code. Currently exploring deep learning for real-world problems.
 
 ## 🚀 About Me
 
