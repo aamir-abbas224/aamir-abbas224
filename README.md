@@ -2,7 +2,7 @@
 
 ## About Me
 
-- Exploring advanced machine learning and data science
+- Exploring machine learning and data science
 - Working with Python, Pandas, and deep learning frameworks
 
 ## 📫Contact
